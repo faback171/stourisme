@@ -1,0 +1,23 @@
+.gauche{
+	width: 300px;
+	position: fixed;
+	height: auto;
+	color: white;
+	background: gray;
+	margin: 0px;
+	border-radius: 0px 50px 40px 0px;
+	border-style: groove;
+	border-collapse: unset;
+}
+ul li a{
+	text-decoration: none;
+}
+h1{
+	text-align: center;
+	color: gray;
+}
+.contenu{
+	width: 100%;
+	height: auto;
+	margin-top: 100px;
+}
